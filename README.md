@@ -10,7 +10,7 @@ the following public methods:
 
 ## Class Seller 
 having the following private attributes: (name, email, items,maxItems), 
-where items is an array list of objects of type Item with the size maxItems. The 
+where items is an array list of objects of type Item. The 
 class has the following public methods:
 - Constructors (default, parameterized, and copy)
 - Add An Item.
