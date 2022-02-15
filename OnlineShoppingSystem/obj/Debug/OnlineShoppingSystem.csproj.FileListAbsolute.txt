@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Online Shopping System\RGB\bin\Debug\RGB.exe.config
+C:\Users\dell\source\repos\Online Shopping System\RGB\bin\Debug\RGB.exe
+C:\Users\dell\source\repos\Online Shopping System\RGB\bin\Debug\RGB.pdb
+C:\Users\dell\source\repos\Online Shopping System\RGB\obj\Debug\OnlineShoppingSystem.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Online Shopping System\RGB\obj\Debug\OnlineShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Online Shopping System\RGB\obj\Debug\RGB.exe
+C:\Users\dell\source\repos\Online Shopping System\RGB\obj\Debug\RGB.pdb
